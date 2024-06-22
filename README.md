@@ -1,5 +1,5 @@
 # Liquid-Neural-Networks-LNNs-Classification
-Liquid Neural Networks (LNNs) Classification, Clustering, and Regression
+Liquid Neural Networks (LNNs) Classification, Clustering, and Regression ---------------
 
 This code implements a neural network using PyTorch, specifically designed for handling the Iris dataset through various machine learning tasks. It introduces a custom recurrent neural network architecture called LTCNetwork, built around a specialized cell named LTCCell, which features dynamic time constants (
 𝜏

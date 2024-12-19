@@ -11,3 +11,15 @@
 ![image](https://github.com/user-attachments/assets/4a689ad5-a941-43f8-bc6c-d5f1ce175c4d)
 
 ![image](https://github.com/user-attachments/assets/fc386c99-7b11-4f8e-b699-7535cc7dfe8b)
+
+# LTC-Based Neural Network for Classification, Clustering, and Regression
+This repository implements an LTC-based neural network for multiple tasks using the Iris dataset. It includes:
+- **Classification**: Using a Long-Term Context (LTC) cell for classifying the Iris dataset.
+- **Clustering**: Visualizing hidden states with KMeans clustering.
+- **Regression**: Predicting a feature using the LTC cell.
+
+## Features
+- **LTC Cell**: Custom implementation of Long-Term Context cell.
+- **Classification**: Evaluate average accuracy across multiple iterations.
+- **Clustering**: Silhouette score and hidden state clustering visualization.
+- **Regression**: Train and evaluate regression with Mean Squared Error (MSE) and correlation coefficient.
